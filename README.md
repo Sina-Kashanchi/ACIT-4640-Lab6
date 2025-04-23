@@ -1,5 +1,7 @@
 # 4640-w6-lab-start-w25
 
-Starter files for the week 6 lab, intro to Packer.
+### Screenshot:
 
-See lab instructions on D2L for details.
+![image](./Lab6.jpg)
+
+![image](./Lab6-1.jpg)
